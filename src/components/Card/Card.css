@@ -1,0 +1,36 @@
+.cardContainer{
+    border:1px solid white;
+    padding:7px;
+    border-radius:9px;
+    width:200px;
+    margin:15px;
+    
+    
+   }
+   .imgContainer{
+   
+   
+   }
+   .cardText{
+       color:white;
+       margin:10px 0;
+       flex-direction: column;
+       display: flex ;
+   
+   
+   }
+   .cardBtn{
+       background-color: inherit;
+       border-radius:9px;
+       color:white;
+       width:100%;
+       outline:none;
+       border:1px solid white;
+       padding:5px;
+       margin-top:15px;
+       bottom: 5px;
+      
+       
+   
+   
+   }
